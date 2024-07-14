@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bankapp accounts related prod APIs "
+  message: "Welcome to Bankapp accounts related production APIs "
   contactDetails:
     name: "Shankar S - Product Owner"
     email: "{cipher}8cf2d384e255c0538a74b2142d3582bbf6262cdc6705f691d1a0817aeb1b9a35eeaeaf8f07df965a729312d075726c69"
