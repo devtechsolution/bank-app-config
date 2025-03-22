@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bankapp accounts related production APIs "
   contactDetails:
     name: "Shankar S - Product Owner"
-    email: "{cipher}8cf2d384e255c0538a74b2142d3582bbf6262cdc6705f691d1a0817aeb1b9a35eeaeaf8f07df965a729312d075726c69"
+    email: "{cipher}0686e150be98394f471b3d57225257ddf11644cea4762c6130750b71ac2af0fb495b1740c8062ff1eb85ab394e2dc9f4"
   onCallSupport:
     - (111) 234-1234
     - (222) 456-1345
