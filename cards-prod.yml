@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bankapp cards related prod APIs "
+  message: "Welcome to Bankapp cards related production APIs "
   contactDetails:
     name: "Brahma S - Product Owner"
     email: "brahma@devbank.com"
